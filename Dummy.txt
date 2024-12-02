@@ -1,5 +1,3 @@
-@@||duckduckgo.com^
 @@||router.asus.com^
-@@||pipesmokersdens.com^
 ||ads.pubmatic.com^
 ||securepubads.g.doubleclick.net^
