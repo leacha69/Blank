@@ -1,3 +1,4 @@
 @@||router.asus.com^
+@@||duckduckgo.com^
 ||ads.pubmatic.com^
 ||securepubads.g.doubleclick.net^
